@@ -1,4 +1,4 @@
-pack (0.14.2-1) UNRELEASED; urgency=medium
+pack (0.14.2-1) buster-tools; urgency=medium
 
   * Initial release
 
